@@ -1,3 +1,3 @@
-# java-games-wizard
+# Java-games-wizard
 
 <img src="java-games-wizard.png" width="450" />
